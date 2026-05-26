@@ -1,0 +1,49 @@
+# System files
+.DS_Store
+Thumbs.db
+.env
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Built and compiled files
+/node_modules/
+/dist/
+/build/
+/out/
+/bin/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.egg
+
+# Java
+target/
+*.class
+*.jar
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS specific
+.AppleDouble
+.LSOverride
+ehthumbs.db
+desktop.ini
